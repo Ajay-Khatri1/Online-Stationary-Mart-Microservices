@@ -25,3 +25,43 @@ Developed Spring Boot Project depicting the digitized simulation of Online Stati
       [ Email Service ][ Batch Service ][ PromptAI Service ]
     (Order emails)   (Scheduled jobs)  (AI queries)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
